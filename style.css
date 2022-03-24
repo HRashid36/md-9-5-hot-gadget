@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    /* margin: 30px; */
+    margin-top: 10px;
+    margin-bottom: 40px;
+    
+}
+.row{
+    margin-left: 20px;
+}
+
+.orange-bg{
+    background-color: rgb(255, 167, 4);
+    border-radius: 10px;
+    color: white;
+    
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.catgories{
+    text-align: center;
+    text-decoration: underline ;
+    margin-bottom: 30px;
+    
+}
+.pale img{
+    height: 300px;
+    width: 300px;
+    margin-left: -100px;
+}
+#bag{
+
+    margin-top: 150px;
+    height: 200px;
+    width: 200px;
+
+}
+
+.shoe{
+    height: 200px;
+    width: 200px;
+    margin-left: 60px;
+}
+.bag{
+    margin-top: 90px;
+   
+}
+
+.cake{
+    margin-left: 200px;
+}
+
+.lastoo{
+    margin-right: 50px;
+    margin-left: -80px;
+    box-shadow: 5px 5px 5px 10px lightgray;
+}
+
+.first{
+    margin-right: -80px;
+}
+
